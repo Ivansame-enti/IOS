@@ -18,5 +18,6 @@ class TestBindingVC: UIViewController {
     }
 
     @IBAction func HelloWorld(_ sender: Any) {
+        
     }
 }

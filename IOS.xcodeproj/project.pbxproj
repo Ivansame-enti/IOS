@@ -14,6 +14,7 @@
 		E702E4032B769A7F009965C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E702E4022B769A7F009965C5 /* Assets.xcassets */; };
 		E702E4062B769A7F009965C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E702E4042B769A7F009965C5 /* LaunchScreen.storyboard */; };
 		E702E40E2B76AF85009965C5 /* TestBindingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E702E40D2B76AF85009965C5 /* TestBindingVC.swift */; };
+		E74E896B2B7FDD7D00668F12 /* SteamLogicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74E896A2B7FDD7D00668F12 /* SteamLogicVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E702E4052B769A7F009965C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E702E4072B769A7F009965C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E702E40D2B76AF85009965C5 /* TestBindingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBindingVC.swift; sourceTree = "<group>"; };
+		E74E896A2B7FDD7D00668F12 /* SteamLogicVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SteamLogicVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E702E4042B769A7F009965C5 /* LaunchScreen.storyboard */,
 				E702E4072B769A7F009965C5 /* Info.plist */,
 				E702E40D2B76AF85009965C5 /* TestBindingVC.swift */,
+				E74E896A2B7FDD7D00668F12 /* SteamLogicVC.swift */,
 			);
 			path = IOS;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E702E3FE2B769A7E009965C5 /* ViewController.swift in Sources */,
+				E74E896B2B7FDD7D00668F12 /* SteamLogicVC.swift in Sources */,
 				E702E3FA2B769A7E009965C5 /* AppDelegate.swift in Sources */,
 				E702E40E2B76AF85009965C5 /* TestBindingVC.swift in Sources */,
 				E702E3FC2B769A7E009965C5 /* SceneDelegate.swift in Sources */,
