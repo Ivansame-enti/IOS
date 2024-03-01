@@ -146,10 +146,10 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OMM-7n-efi">
-                                <rect key="frame" x="0.0" y="339.66666666666669" width="430.66666666666669" height="538.33333333333326"/>
+                                <rect key="frame" x="0.0" y="340.66666666666669" width="430" height="537.33333333333326"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Lps-u2-Ykx">
-                                        <rect key="frame" x="15" y="14.999999999999972" width="399.66666666666669" height="508.33333333333326"/>
+                                        <rect key="frame" x="15" y="14.999999999999972" width="399.66666666666669" height="507.33333333333326"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="15" id="Plg-mC-i9X">
                                                 <rect key="frame" x="0.0" y="0.0" width="399.66666666666669" height="93.666666666666671"/>
@@ -160,13 +160,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gxn-ZL-1Sl" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1nO-eg-dVE">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -189,13 +189,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NDD-P8-sCr" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Knt-9v-YiX">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -218,13 +218,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cCh-oP-yb5" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EKD-bo-vTE">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -247,13 +247,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cka-Pc-UKn" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Igm-Rq-fzS">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -410,13 +410,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ibC-Od-RI0" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xw1-9x-Xdb">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain" title="0"/>
                                                             </button>
@@ -439,13 +439,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r9J-9H-Js1" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wjf-YD-rYV">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain" title="0"/>
                                                             </button>
@@ -468,13 +468,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TJR-V9-Lsa" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ADY-Vt-LpR">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain" title="0"/>
                                                             </button>
@@ -497,13 +497,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RpP-Te-Y4c" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cXm-Xr-k6P">
-                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="88.666666666666671" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain" title="0"/>
                                                             </button>
@@ -527,7 +527,7 @@
                                                 <color key="tintColor" systemColor="systemOrangeColor"/>
                                             </stackView>
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="rvh-w1-PNs">
-                                                <rect key="frame" x="0.0" y="310.99999999999994" width="399.66666666666669" height="93.666666666666686"/>
+                                                <rect key="frame" x="0.0" y="310.33333333333331" width="399.66666666666669" height="93.666666666666686"/>
                                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                 <color key="tintColor" systemColor="systemOrangeColor"/>
                                             </stackView>
@@ -540,13 +540,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J47-nv-DCi" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zAI-bb-fPk">
-                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -569,13 +569,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RfK-oK-c9G" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="123" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="123" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gxg-T8-8RW">
-                                                                <rect key="frame" x="0.0" y="0.0" width="123" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="123" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -598,13 +598,13 @@
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <subviews>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oeO-5v-iRA" userLabel="buttonText">
-                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="unb-zS-IT4">
-                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.666666666666671"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="123.33333333333333" height="93.333333333333329"/>
                                                                 <state key="normal" title="Button"/>
                                                                 <buttonConfiguration key="configuration" style="plain"/>
                                                             </button>
@@ -881,11 +881,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="430" height="932"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="iQ2-EB-Ez6">
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="iQ2-EB-Ez6">
                                 <rect key="frame" x="0.0" y="59" width="430" height="873"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="NoteCellID" id="G1B-vF-4QO" customClass="NoteCell" customModule="IOS" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="NoteCell" id="G1B-vF-4QO" customClass="NoteCell" customModule="IOS" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="50" width="430" height="149.33332824707031"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="G1B-vF-4QO" id="Ubc-uX-mQs">
@@ -898,13 +898,13 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ovU-em-eOE">
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" userInteractionEnabled="NO" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ovU-em-eOE">
                                                     <rect key="frame" x="0.0" y="49.333333333333343" width="430" height="100"/>
                                                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="100" id="AE4-op-3fZ"/>
                                                     </constraints>
-                                                    <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                    <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
                                                     <color key="textColor" systemColor="labelColor"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -921,34 +921,132 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="content" destination="ovU-em-eOE" id="7lp-F9-HSi"/>
+                                            <outlet property="content" destination="ovU-em-eOE" id="7B9-ma-M16"/>
                                             <outlet property="title" destination="mQq-AR-dea" id="wtS-3w-a2h"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
                             </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UzD-UI-kHt">
+                                <rect key="frame" x="330" y="798" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Z3c-np-z3S"/>
+                                    <constraint firstAttribute="width" constant="50" id="oqD-X0-z8h"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="+" cornerStyle="capsule">
+                                    <backgroundConfiguration key="background">
+                                        <color key="backgroundColor" systemColor="systemYellowColor"/>
+                                        <color key="strokeColor" systemColor="systemRedColor"/>
+                                    </backgroundConfiguration>
+                                    <fontDescription key="titleFontDescription" type="boldSystem" pointSize="40"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="addNoteBtnPressed:" destination="924-YH-Lkr" eventType="touchUpInside" id="6E6-bB-L4e"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="M78-pG-xdN"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="M78-pG-xdN" firstAttribute="bottom" secondItem="UzD-UI-kHt" secondAttribute="bottom" constant="50" id="5Xg-Am-nm3"/>
                             <constraint firstItem="iQ2-EB-Ez6" firstAttribute="leading" secondItem="M78-pG-xdN" secondAttribute="leading" id="6D7-at-TIg"/>
                             <constraint firstAttribute="bottom" secondItem="iQ2-EB-Ez6" secondAttribute="bottom" id="AJD-SE-17a"/>
                             <constraint firstItem="iQ2-EB-Ez6" firstAttribute="top" secondItem="M78-pG-xdN" secondAttribute="top" id="MMY-Mb-nGp"/>
                             <constraint firstItem="M78-pG-xdN" firstAttribute="trailing" secondItem="iQ2-EB-Ez6" secondAttribute="trailing" id="SkM-OO-JcC"/>
+                            <constraint firstItem="M78-pG-xdN" firstAttribute="trailing" secondItem="UzD-UI-kHt" secondAttribute="trailing" constant="50" id="djV-4T-JFL"/>
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="table" destination="G1B-vF-4QO" id="0eP-gM-uGQ"/>
-                        <outlet property="tableView" destination="iQ2-EB-Ez6" id="77P-6x-vcM"/>
+                        <outlet property="table" destination="iQ2-EB-Ez6" id="xF7-nh-nHL"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Djb-aG-fAE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1184.6511627906978" y="-214.37768240343348"/>
+            <point key="canvasLocation" x="1919" y="-80"/>
+        </scene>
+        <!--Note DetailVC-->
+        <scene sceneID="BLb-cy-p8x">
+            <objects>
+                <viewController storyboardIdentifier="NoteDetailVC" id="YFj-uu-Df6" customClass="NoteDetailVC" customModule="IOS" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="0K5-xe-sAG">
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="932"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ROy-8Y-t14" userLabel="ToolBar">
+                                <rect key="frame" x="0.0" y="59" width="430" height="41"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="tailTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Urj-M2-1n9">
+                                        <rect key="frame" x="0.0" y="0.0" width="107" height="41"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" image="arrow.backward" catalog="system" title=" Cancel"/>
+                                        <connections>
+                                            <action selector="cancelAction:" destination="YFj-uu-Df6" eventType="touchUpInside" id="Te4-eh-22Z"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" horizontalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I7B-Mr-dZT">
+                                        <rect key="frame" x="369" y="0.0" width="61" height="41"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="Save"/>
+                                        <connections>
+                                            <action selector="saveAction:" destination="YFj-uu-Df6" eventType="touchUpInside" id="Sbo-II-Ocn"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="I7B-Mr-dZT" secondAttribute="bottom" id="VCP-tz-Tra"/>
+                                    <constraint firstItem="Urj-M2-1n9" firstAttribute="leading" secondItem="ROy-8Y-t14" secondAttribute="leading" id="VuM-wL-DJt"/>
+                                    <constraint firstAttribute="bottom" secondItem="Urj-M2-1n9" secondAttribute="bottom" id="i3B-5L-Y1f"/>
+                                    <constraint firstItem="I7B-Mr-dZT" firstAttribute="top" secondItem="ROy-8Y-t14" secondAttribute="top" id="mKg-QM-53I"/>
+                                    <constraint firstItem="I7B-Mr-dZT" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Urj-M2-1n9" secondAttribute="trailing" constant="5" id="rbK-85-cVz"/>
+                                    <constraint firstItem="Urj-M2-1n9" firstAttribute="top" secondItem="ROy-8Y-t14" secondAttribute="top" id="s35-Vm-TV4"/>
+                                    <constraint firstAttribute="trailing" secondItem="I7B-Mr-dZT" secondAttribute="trailing" id="vHB-A5-u0m"/>
+                                </constraints>
+                            </view>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Note Title" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="vAp-O2-ihF">
+                                <rect key="frame" x="20" y="119.99999999999999" width="390" height="38.333333333333329"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Note detail" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="lpr-XN-yue">
+                                <rect key="frame" x="20" y="178.33333333333331" width="390" height="699.66666666666674"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="SrM-5F-lo9"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ROy-8Y-t14" firstAttribute="leading" secondItem="SrM-5F-lo9" secondAttribute="leading" id="B0b-F5-Dsk"/>
+                            <constraint firstItem="vAp-O2-ihF" firstAttribute="top" secondItem="ROy-8Y-t14" secondAttribute="bottom" constant="20" id="FQh-P9-dbq"/>
+                            <constraint firstItem="vAp-O2-ihF" firstAttribute="leading" secondItem="SrM-5F-lo9" secondAttribute="leading" constant="20" id="HU1-qB-ZBX"/>
+                            <constraint firstItem="SrM-5F-lo9" firstAttribute="trailing" secondItem="lpr-XN-yue" secondAttribute="trailing" constant="20" id="IiZ-N6-meF"/>
+                            <constraint firstItem="SrM-5F-lo9" firstAttribute="bottom" secondItem="lpr-XN-yue" secondAttribute="bottom" constant="20" id="fgz-wG-HZH"/>
+                            <constraint firstItem="SrM-5F-lo9" firstAttribute="trailing" secondItem="ROy-8Y-t14" secondAttribute="trailing" id="hFk-cd-Aza"/>
+                            <constraint firstItem="ROy-8Y-t14" firstAttribute="top" secondItem="SrM-5F-lo9" secondAttribute="top" id="hbP-2d-JbE"/>
+                            <constraint firstItem="lpr-XN-yue" firstAttribute="leading" secondItem="SrM-5F-lo9" secondAttribute="leading" constant="20" id="tLP-sH-OUv"/>
+                            <constraint firstItem="lpr-XN-yue" firstAttribute="top" secondItem="vAp-O2-ihF" secondAttribute="bottom" constant="20" id="tao-f7-NKJ"/>
+                            <constraint firstItem="SrM-5F-lo9" firstAttribute="trailing" secondItem="vAp-O2-ihF" secondAttribute="trailing" constant="20" id="wKx-hm-BLy"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="acceptBt" destination="I7B-Mr-dZT" id="EP3-MX-8WT"/>
+                        <outlet property="contentField" destination="lpr-XN-yue" id="fOc-mX-L2C"/>
+                        <outlet property="titleField" destination="vAp-O2-ihF" id="v7B-b4-hk1"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qE3-x3-em3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2662" y="-80"/>
         </scene>
     </scenes>
     <resources>
         <image name="SteamLogo" width="300" height="300"/>
+        <image name="arrow.backward" catalog="system" width="128" height="95"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
@@ -956,34 +1054,34 @@
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemBlueColor">
-            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemBrownColor">
-            <color red="0.63529411764705879" green="0.51764705882352946" blue="0.36862745098039218" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.63529411759999999" green="0.51764705879999995" blue="0.36862745099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemCyanColor">
-            <color red="0.19607843137254902" green="0.67843137254901964" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.1960784314" green="0.67843137249999996" blue="0.90196078430000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemGreenColor">
-            <color red="0.20392156862745098" green="0.7803921568627451" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemOrangeColor">
-            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemPurpleColor">
-            <color red="0.68627450980392157" green="0.32156862745098042" blue="0.87058823529411766" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.68627450980000004" green="0.32156862749999998" blue="0.87058823529999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemRedColor">
-            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemYellowColor">
             <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="tableCellBlueTextColor">
-            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="tintColor">
-            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>

@@ -8,8 +8,10 @@
 import Foundation
 import UIKit
 
-class NoteCell: UITableViewCell{
+class NoteCell: BtCell{
+    
+    @IBOutlet weak var title: UILabel!
     
     @IBOutlet weak var content: UITextView!
-    @IBOutlet weak var title: UILabel!
+    
 }

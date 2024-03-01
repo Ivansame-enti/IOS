@@ -19,6 +19,10 @@
 		E73C8B442B8924EC005572C9 /* NotesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73C8B432B8924EC005572C9 /* NotesListVC.swift */; };
 		E73C8B462B892812005572C9 /* NoteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73C8B452B892812005572C9 /* NoteCell.swift */; };
 		E74E896B2B7FDD7D00668F12 /* SteamLogicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74E896A2B7FDD7D00668F12 /* SteamLogicVC.swift */; };
+		E7A7153D2B922CCB0019B191 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A7153C2B922CCB0019B191 /* Note.swift */; };
+		E7A7153F2B92336A0019B191 /* UserDefaults+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A7153E2B92336A0019B191 /* UserDefaults+Codable.swift */; };
+		E7A715412B9248050019B191 /* NoteDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A715402B9248050019B191 /* NoteDetailVC.swift */; };
+		E7A715432B92592F0019B191 /* BtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A715422B92592F0019B191 /* BtCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +40,10 @@
 		E73C8B432B8924EC005572C9 /* NotesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesListVC.swift; sourceTree = "<group>"; };
 		E73C8B452B892812005572C9 /* NoteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteCell.swift; sourceTree = "<group>"; };
 		E74E896A2B7FDD7D00668F12 /* SteamLogicVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SteamLogicVC.swift; sourceTree = "<group>"; };
+		E7A7153C2B922CCB0019B191 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		E7A7153E2B92336A0019B191 /* UserDefaults+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+Codable.swift"; sourceTree = "<group>"; };
+		E7A715402B9248050019B191 /* NoteDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteDetailVC.swift; sourceTree = "<group>"; };
+		E7A715422B92592F0019B191 /* BtCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BtCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +89,10 @@
 				E702E40D2B76AF85009965C5 /* TestBindingVC.swift */,
 				E74E896A2B7FDD7D00668F12 /* SteamLogicVC.swift */,
 				E73C8B3F2B891092005572C9 /* TableTestVC.swift */,
+				E7A7153C2B922CCB0019B191 /* Note.swift */,
+				E7A7153E2B92336A0019B191 /* UserDefaults+Codable.swift */,
+				E7A715402B9248050019B191 /* NoteDetailVC.swift */,
+				E7A715422B92592F0019B191 /* BtCell.swift */,
 			);
 			path = IOS;
 			sourceTree = "<group>";
@@ -157,14 +169,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				E702E3FE2B769A7E009965C5 /* ViewController.swift in Sources */,
+				E7A715432B92592F0019B191 /* BtCell.swift in Sources */,
 				E73C8B402B891092005572C9 /* TableTestVC.swift in Sources */,
 				E73C8B442B8924EC005572C9 /* NotesListVC.swift in Sources */,
 				E74E896B2B7FDD7D00668F12 /* SteamLogicVC.swift in Sources */,
 				E73C8B422B8913B7005572C9 /* TextCell.swift in Sources */,
+				E7A7153F2B92336A0019B191 /* UserDefaults+Codable.swift in Sources */,
+				E7A7153D2B922CCB0019B191 /* Note.swift in Sources */,
 				E702E3FA2B769A7E009965C5 /* AppDelegate.swift in Sources */,
 				E73C8B462B892812005572C9 /* NoteCell.swift in Sources */,
 				E702E40E2B76AF85009965C5 /* TestBindingVC.swift in Sources */,
 				E702E3FC2B769A7E009965C5 /* SceneDelegate.swift in Sources */,
+				E7A715412B9248050019B191 /* NoteDetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
