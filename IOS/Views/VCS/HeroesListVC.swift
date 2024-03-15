@@ -45,26 +45,8 @@ class HeroesListVC: VC{
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        //if let url = URL(string: "https://pokeapi.co/api/v2/pokemon/charizard"){
-        if let url = URL(string: "https://digi-api.com/api/v1/digimon/agumon"){
-            let request = URLRequest(url: url)
-            
-            let task = URLSession.shared.dataTask(with: request) { data, response, error in
-                
-                if let data = data, let jsonString = String(data: data, encoding: .utf8){
-                    
-                    //if let pokemon = try? JSONDecoder().decode(Pokemon.self, from: data){
-                    if let pokemon = try? JSONDecoder().decode(Digimon.self, from: data){
-                        DispatchQueue.main.async {
-                            //Codigo en el thread principal
-                            
-                            print(jsonString)
-                        }
-                    }
-                }
-            }
-            task.resume()
+        RepoManager.Marvel.getHeroes(offset: 0, limit: 20) {
+            heroes in let i = 0
         }
     }
 }
