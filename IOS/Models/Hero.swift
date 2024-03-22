@@ -7,11 +7,23 @@
 
 import Foundation
 
+struct HeroImagePath: Codable {
+    let path: String
+    let `extension`: String
+    
+    var ImagePath: String{
+        get{return "\(path).\(`extension`)"}
+    }
+    var Url: URL? {
+        get {return URL(string: ImagePath)}
+    }
+}
+
 struct Hero: Codable {
     let id: Int
     let name: String
     let description: String?
-    
+    let thumbnail: HeroImagePath
 }
 
 extension MarvelApiRepository {
